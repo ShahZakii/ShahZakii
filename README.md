@@ -17,35 +17,15 @@
 **Programming:** Python  
 **Tools:** Git, GitHub
 
----
-
-## 📂 Projects
-🔹 **Python Learning Journey** – Daily Python practice & fundamentals  
-🔹 **Data Analysis Projects** – Exploring datasets and finding insights  
-🔹 **Machine Learning Practice** – Beginner ML models and experiments  
 
 👉 Check out my repositories below 👇  
 
----
-
-## 📈 Current Learning Focus
-- Statistics for Data Science  
-- Machine Learning Algorithms  
-- SQL for Data Analysis  
-- Deep Learning (Upcoming)  
-
----
-
-## 🎯 Career Goal
-To become a skilled **Data Scientist & AI/ML Engineer** and work on data-driven, intelligent solutions that create real-world impact.
-
----
 
 ## 📫 Connect With Me
 - LinkedIn: *(add later)*
-- Email: *(optional)*
+- Email: shahhzaki@gmail.com
 
-⭐ *Learning every day. Improving step by step.*
+⭐ *Learning every day. Improving step by step.*                                      
 
 
 <!--
