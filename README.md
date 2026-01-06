@@ -22,7 +22,7 @@
 
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/zaki-shah-saifi
+- LinkedIn: www.linkedin.com/in/shahzaki
 - Email: shahhzaki@gmail.com
 
 ⭐ *Learning every day. Improving step by step.*                                      
